@@ -27,7 +27,7 @@
     <parent>
         <groupId>org.apache.cxf.xjc-utils</groupId>
         <artifactId>xjc-utils</artifactId>
-        <version>4.0.0-SNAPSHOT</version>
+        <version>3.3.1-jbossorg-1-SNAPSHOT</version>
     </parent>
 
     <prerequisites>
